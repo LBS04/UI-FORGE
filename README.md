@@ -23,11 +23,12 @@ Just describe your app or website concept in plain language, and UI Forge genera
 ---
 ## 🖼️ Screenshots
 
-| Input Screen | AI Output Example |
-|---------------|------------------|
-| ![Home Page 1](screenshots/homepage1.png) | ![Home Page 2](screenshots/homepage2.png) |![Color Palette](screenshots/colorpalette.png) | ![Typography](screenshots/typography.png) | ![Layout and Spacing](screenshots/layout.png) |
 
-*(Add your screenshots in the `screenshots/` folder.)*
+| ![Home Page 1](screenshots/homepage1.png) | ![Home Page 2](screenshots/homepage2.png) |
+| ![Color Palette](screenshots/colorpalette.png) | ![Typography](screenshots/typography.png) | 
+| ![Layout and Spacing](screenshots/layout.png) |
+
+
 
 ---
 
