@@ -33,7 +33,7 @@ Just describe your app or website concept in plain language, and UI Forge genera
 ---
 
 ## 🌐 Live Preview
-👉 [**Try UI Forge**]([https://your-preview-link-here.com](https://9000-firebase-studio-1760948921956.cluster-wurh6gchdjcjmwrw2tqtufvhss.cloudworkstations.dev))
+👉 [**Try UI Forge**](https://9000-firebase-studio-1760948921956.cluster-wurh6gchdjcjmwrw2tqtufvhss.cloudworkstations.dev)
 
 *(You can host this using GitHub Pages, Firebase Hosting, or Vercel.)*
 
