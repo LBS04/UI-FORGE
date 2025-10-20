@@ -1,2 +1,5 @@
-# UI-FORGE
-🚀 UI Forge — AI-Powered Design Assistant Describe your dream app or website, and UI Forge generates a complete design guide — including color palettes (with meaning behind each color), typography suggestions, and spacing recommendations. Perfect for beginners learning UI/UX design fundamentals.
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
