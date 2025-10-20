@@ -30,9 +30,11 @@ Just describe your app or website concept in plain language, and UI Forge genera
 ## 🖼️ Screenshots
 
 
-| [Home Page 1](screenshots/homepage1.png) | [Home Page 2](screenshots/homepage2.png) |
-| [Color Palette](screenshots/colorpalette.png) | [Typography](screenshots/typography.png) | 
-| [Layout and Spacing](screenshots/layout.png) |
+| ![Home Page 1](screenshots/homepage1.png) 
+| ![Home Page 2](screenshots/homepage2.png) 
+| ![Color Palette](screenshots/colorpalette.png) 
+| ![Typography](screenshots/typography.png)
+| ![Layout and Spacing](screenshots/layout.png) 
 
 
 
