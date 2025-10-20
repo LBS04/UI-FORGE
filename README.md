@@ -1,5 +1,10 @@
-#🎨 UI Forge — AI-Powered UI/UX Design Assistant
-As new designers, we often forget fundamentals like color psychology, typography hierarchy, or spacing systems. UI Forge makes these complex design decisions simple and understandable. Just describe your app or website idea — and it generates color palettes (with meaning), typography pairings, and spacing suggestions to help you design with confidence.
+# 🎨 UI Forge — AI-Powered UI/UX Design Assistant
+
+As new designers, we often forget fundamentals like **color psychology**, **typography hierarchy**, or **spacing systems**.  
+**UI Forge** makes these complex design decisions *simple and understandable.*  
+Just describe your app or website idea — and it generates **color palettes (with meaning)**,  
+**typography pairings**, and **spacing suggestions** to help you design with confidence.  
+
 
 UI Forge helps budding designers transform ideas into design direction.  
 Just describe your app or website concept in plain language, and UI Forge generates:
