@@ -21,23 +21,24 @@ Just describe your app or website concept in plain language, and UI Forge genera
 | 💾 **Save & Export** | Copy or export your generated design guide |
 
 ---
-## 🖼️ Screenshots
-
-
-| ![Home Page 1](screenshots/homepage1.png) | ![Home Page 2](screenshots/homepage2.png) |
-| ![Color Palette](screenshots/colorpalette.png) | ![Typography](screenshots/typography.png) | 
-| ![Layout and Spacing](screenshots/layout.png) |
-
-
-
----
 
 ## 🌐 Live Preview
 👉 [**Try UI Forge**](https://9000-firebase-studio-1760948921956.cluster-wurh6gchdjcjmwrw2tqtufvhss.cloudworkstations.dev)
 
-*(You can host this using GitHub Pages, Firebase Hosting, or Vercel.)*
 
 ---
+## 🖼️ Screenshots
+
+
+| [Home Page 1](screenshots/homepage1.png) | [Home Page 2](screenshots/homepage2.png) |
+| [Color Palette](screenshots/colorpalette.png) | [Typography](screenshots/typography.png) | 
+| [Layout and Spacing](screenshots/layout.png) |
+
+
+
+---
+
+
 
 ## 🧩 Example Use Case
 
