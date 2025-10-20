@@ -29,7 +29,7 @@ Just describe your app or website concept in plain language, and UI Forge genera
 ---
 
 ## 🌐 Live Preview
-👉 [**Try UI Forge**](https://9000-firebase-studio-1760948921956.cluster-wurh6gchdjcjmwrw2tqtufvhss.cloudworkstations.dev)
+👉 [**Try UI Forge**](https://ui-forge-16l5.vercel.app/)
 
 
 ---
